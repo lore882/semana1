@@ -1,10 +1,20 @@
+body{background-color: khaki;
+padding: auto;
+border: #454040;}
+
 h1{
+  
   background-color: khaki;
   font-style: inherit;
 }
 
+h2{
+  background-color: rgb(224, 135, 80);
+  font-style: inherit;
+}
 nav {
-  background-color: rgba(247, 240, 136, 0.563);
+  
+  background-color: rgba(240, 147, 15, 0.563);
   color: #454040;
   padding: 10px;
 }
@@ -22,10 +32,15 @@ nav ul li {
 }
 
 nav ul li a {
-  color: #4f4a4a;
+  color: n #4f4a4a;
   text-decoration: none;
 }
 
 nav ul li a:hover {
   color: red;
 }
+
+p{
+  font-style: italic;
+}
+
